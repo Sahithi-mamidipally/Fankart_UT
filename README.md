@@ -1,3 +1,5 @@
+This folder contains all of project assignments: https://drive.google.com/drive/folders/1igcw3MqDfnOkDjUI-SobKADK6NIQ4LNQ?usp=drive_link
+
 Fankart project is built on Microsoft technology stack (c#, .net core, razor pages, SQL), HTML and CSS.
 So to work on local environment 
   Install visual studio Microsoft Visual Studio Community 2022 from https://visualstudio.microsoft.com/downloads/?cid=learn-onpage-download-tutorial-create-csharp-aspnetcore-web-app-page-cta  
